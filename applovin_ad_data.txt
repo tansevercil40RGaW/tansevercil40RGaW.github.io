@@ -1,3 +1,4 @@
 {
-"banner_id":"5446434fg455"
+"consennt_key":"aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
+"ho_ad_splash":1002
 }
