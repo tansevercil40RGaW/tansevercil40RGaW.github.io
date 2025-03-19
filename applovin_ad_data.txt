@@ -1,4 +1,4 @@
 {
-"consennt_key":"aHR0cHM6Ly9tb3ZpZXMudnVsaWJzLndvcms=",
-"ho_ad_splash":1002
+"applo_banner":"976c8600e81af4d1",
+"applo_inter":"2f21d476ad05bfc9"
 }
